@@ -20,3 +20,5 @@ tensorflow-recommenders
 recmetrics
 implicit
 lightfm
+
+python-3.14.3
