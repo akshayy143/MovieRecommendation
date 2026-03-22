@@ -9,3 +9,6 @@ step -2- run in new terminal
 
 
 https://github.com/user-attachments/assets/6b414074-8a0c-4af3-a0f0-bdf9f0821f8c
+
+
+path - C:\Users\Lenovo\Downloads\new movie
