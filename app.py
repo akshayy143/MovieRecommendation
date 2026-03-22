@@ -1,5 +1,12 @@
 import requests
 import streamlit as st
+# Example using httpx with a timeout
+import httpx
+try:
+    response = httpx.get(url, timeout=10.0)
+except httpx.ConnectError:
+    # Handle the error gracefully
+    pass
 
 
 #python -m uvicorn main:app --reload
